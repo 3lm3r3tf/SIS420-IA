@@ -1,0 +1,18 @@
+El dataset es de Ames Housing y su objetivo es predecir el precio de venta de una casa (SalePrice) usando características de la vivienda.
+
+En ese cuadernillo se hizo esto, en resumen:
+
+Se cargó el archivo AmesHousing.xls.
+Se tomó SalePrice como variable objetivo.
+Se eligieron solo variables numéricas (para usar regresión lineal como en clase).
+De esas variables, se seleccionaron 10 con menos valores faltantes.
+Se limpiaron nulos (se eliminaron filas incompletas en esas columnas).
+Se dividió el dataset en 75% entrenamiento / 25% prueba.
+Se normalizaron las features con media y desviación del train.
+Se entrenó una regresión lineal multivariable con descenso del gradiente.
+Se evaluó con RMSE, MAE y R2 en train y test.
+Se graficó:
+distribución de SalePrice,
+convergencia del costo,
+real vs predicho en test.
+Idea principal: construir un modelo que aprenda la relación entre variables de la casa y su precio, y verificar que generalice bien (sin mucho sobreajuste).
