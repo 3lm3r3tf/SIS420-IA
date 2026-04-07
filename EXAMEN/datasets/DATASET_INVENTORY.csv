@@ -1,0 +1,10 @@
+dataset,source_url,downloaded,described,prepared,github_uploaded,notes
+Ames Housing,https://www.kaggle.com/datasets/marcopale/housing,NO,NO,NO,NO,
+MIMIC-III Demo,https://physionet.org/content/mimiciii-demo/1.4/,NO,NO,NO,NO,
+NHANES,https://www.cdc.gov/nchs/nhanes/index.html,NO,NO,NO,NO,
+Bike Sharing,https://www.kaggle.com/c/bike-sharing-demand,NO,NO,NO,NO,
+Adult Census Income,https://archive.ics.uci.edu/ml/datasets/adult,NO,NO,NO,NO,
+Credit Approval,https://archive.ics.uci.edu/ml/datasets/credit+approval,NO,NO,NO,NO,
+Statlog Australian Credit,https://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval),NO,NO,NO,NO,
+Breast Cancer Wisconsin Original,https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original),NO,NO,NO,NO,
+Meningitis Missing Values,https://www.kaggle.com/datasets/chantest/meningitis-dataset-with-missing-values,NO,NO,NO,NO,
