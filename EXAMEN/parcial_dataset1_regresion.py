@@ -110,8 +110,8 @@ def main():
     test_r2 = r2_score(y_test, y_pred_test)
 
     print("\n=== RESULTADOS REGRESION ===")
-    print(f"RMSE caida: {train_rmse:.2f}")
-    print(f"RMSE testado : {test_rmse:.2f}")
+    print(f"RMSE train: {train_rmse:.2f}")
+    print(f"RMSE test : {test_rmse:.2f}")
     print(f"MAE train : {train_mae:.2f}")
     print(f"MAE test  : {test_mae:.2f}")
     print(f"R2 train  : {train_r2:.4f}")
