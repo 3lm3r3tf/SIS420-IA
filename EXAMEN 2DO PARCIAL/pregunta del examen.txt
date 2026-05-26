@@ -1,0 +1,3 @@
+Elmer Ernesto Tarqui Flores
+Memoria de parejas: Crea un agente que juegue a encontrar cartas iguales. 
+Explica cómo recuerda posiciones, explora cartas ocultas y explota cartas ya conocidas.
