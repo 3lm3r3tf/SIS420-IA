@@ -1,3 +1,17 @@
 Elmer Ernesto Tarqui Flores
 Memoria de parejas: Crea un agente que juegue a encontrar cartas iguales. 
 Explica cómo recuerda posiciones, explora cartas ocultas y explota cartas ya conocidas.
+Memoria de Parejas - Agente Inteligente
+
+Este cuadernillo está separado por secciones, igual que 01_introduccion y 01_01_tres_en_raya, para que sea fácil de explicar y ejecutar.
+- Estado: qué cartas ya vio el agente y cuáles emparejó.
+- Entorno: un tablero de 4 posiciones, numeradas de 0 a 3.
+- Política: si conoce una pareja, la usa; si no, explora.
+- Recompensa: 1 si encuentra pareja, 0 si no.
+- Acción: elegir dos posiciones para abrir.
+
+Crear un agente simple que aprenda a recordar cartas, encontrar parejas y luego jugar contra el usuario.
+Tablero del juego
+
+Esta parte sirve para crear el juego. El tablero tiene 4 posiciones: 0, 1, 2 y 3.
+Dos posiciones forman una pareja.
