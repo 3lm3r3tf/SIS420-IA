@@ -1,0 +1,15 @@
+redes neuronales:
+percetron regresion:
+redes neurales de shapiro     
+como ven la computadoras necesita numeros trabajar 
+50*50 pixiles de imagen 2500 pixeles
+n=2500  (7500 si RGB)
+red neronal es son algoritmos q quieres igualar a un cerebro 
+algoritmo q tratan de imitar el cerebro 
+muy utilizado en los 80 principio de 90 
+uso reducido en finales de 90 
+reciente surgimiento 
+la hipotesis del algoritmo de aprendizaje unico 
+las valores de x son la entrada 
+las redes neuronales nos de resultado entre 1 y 0 en el epsilom 
+
